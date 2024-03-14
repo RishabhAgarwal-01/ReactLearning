@@ -22,4 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-*.tailwind.config.js
+# Exclude specific files and directories
+tailwind.config.js
